@@ -1,3 +1,3 @@
 # database
 
-<blockquote>This data are from scraper</blockquote>
+<blockquote>Yuu data rest web api</blockquote>
