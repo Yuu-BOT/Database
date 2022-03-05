@@ -16,4 +16,4 @@ This data are from scraper
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| YUU API | Sidaniid | [Link](https://yuuapi.xyz) | `Aktif` | API collection. | `APIKEY` |
+| YUU API | YUU | [Link](https://yuuapi.xyz) | `Aktif` | API collection. | `APIKEY` |
